@@ -51,7 +51,7 @@ Default and sovereign debt
 
 Conesa, Juan C., and Timothy J. Kehoe. "[Gambling for Redemption and Self-Fulfilling Debt Crisis](https://econpapers.repec.org/paper/fipfedmsr/465.htm)." Mimeo, Federal Reserve Bank of Minneapolis (2011).
 
-Arellano. "[Default Risk and Income Fluctuations in Emerging Economies." (PDF)](http://www.cristinaarellano.com/riskdefault.pdf) Mimeo, Federal Reserve Bank of Minneapolis (2007).
+Arellano. "[Default Risk and Income Fluctuations in Emerging Economies](https://www.aeaweb.org/articles?id=10.1257/aer.98.3.690)." Mimeo, Federal Reserve Bank of Minneapolis (2007).
 
 Chamon, Marcos. "[Can Debt Crises be Self-Fulfilling?](http://ideas.repec.org/a/eee/deveco/v82y2007i1p234-244.html)" *Journal of Development Economics* 82, no. 1 (2007): 234–44.
 
@@ -85,7 +85,7 @@ Guerrieri, V., and G. Lorenzoni. "[Credit Crises, Precautionary Savings and the 
 
 Eggertsson, G. B., and Paul Krugman. "[Debt, Deleveraging, and the Liquidity Trap." (PDF)](https://www.princeton.edu/~pkrugman/debt_deleveraging_ge_pk.pdf) *Quarterly Journal of Economics* (2012).
 
-Werning, I. "[Managing Liquidity Trap: Monetary and Fiscal Policy](http://economics.mit.edu/files/7558)."  MIT (2012).
+Werning, I. "[Managing Liquidity Trap: Monetary and Fiscal Policy](https://ideas.repec.org/p/nbr/nberwo/17344.html)."  MIT (2012).
 
 Mian, Atif R., K. Rao, et al. "[Household Balance Sheets, Consumption, and the Economic Slump](https://pdfs.semanticscholar.org/75a5/00894c5ffa5f9203a7e223e3a61f9eb7aa29.pdf)[." (PDF)](http://www.google.com/url?sa=t&rct=j&q=household%20balance%20sheets%2C%20consumption%2C%20and%20the%20economic%20slump&source=web&cd=1&ved=0CCIQFjAA&url=http%3A%2F%2Fwww.aeaweb.org%2Faea%2F2012conference%2Fprogram%2Fretrieve.php%3Fpdfid%3D136&ei=VUBHUMfvDOPz0gGe9YHQAw&usg=AFQjCNHoeAcln1d00V00d16K3f9N2k9rWw&sig2=fdLzFoyuhYDM6hD6XEpcwA) Booth (2011).
 
@@ -199,7 +199,7 @@ Angeletos, George-Marios, and Ivan Werning. "[Crises and Prices: Information Agg
 
 Angeletos, George-Marios, Christian Hellwig, et al. "[Dynamic Global Games of Regime Change: Learning, Multiplicity and Timing of Attacks](http://dx.doi.org/10.1111/j.1468-0262.2007.00766.x)." *Econometrica* 75, no. 3 (2007): 711–56.
 
-Angeletos, George-Marios, and Alessandro Pavan. "[Selection-Free Predictions in Global Games with Endogenous Information and Multiple Equilibria](http://economics.mit.edu/files/8288)." *Theoretical Economics* (2012).
+Angeletos, George-Marios, and Alessandro Pavan. "[Selection-Free Predictions in Global Games with Endogenous Information and Multiple Equilibria](https://onlinelibrary.wiley.com/doi/abs/10.3982/TE1156)." *Theoretical Economics* (2012).
 
 Frankel, David, and Ady Pauzner. "[Resolving Indeterminacy in Dynamic Settings: The Role of Shocks](http://dx.doi.org/10.1162/003355300554746)." *Quarterly Journal of Economics* 115, no. 1 (2000): 283–304.
 
