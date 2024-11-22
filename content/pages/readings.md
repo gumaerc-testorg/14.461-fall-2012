@@ -21,7 +21,7 @@ READINGS
 Fiscal policy I: Optimal taxation with heterogeneity and idiosyncratic uncertainty
 {{< tdclose >}}{{< tdopen >}}
 
-Chari, V. V., and Patrick J. Kehoe. "[Optimal Fiscal and Monetary Policy](http://dx.doi.org/10.1016/S1574-0048(99)10039-9)." *Handbook of Macroeconomics* 1 (1999): 1671–745.
+Chari, V. V., and Patrick J. Kehoe. "[Optimal Fiscal and Monetary Policy](http://dx.doi.org/10.1016/S1574-0048%2899%2910039-9)." *Handbook of Macroeconomics* 1 (1999): 1671–745.
 
 Werning, I. "[Optimal Fiscal Policy with Redistribution](http://dx.doi.org/10.1162/qjec.122.3.925)." *Quarterly Journal of Economics* 122, no. 3 (1999): 925–67.
 
@@ -137,7 +137,7 @@ Adrian, T, and Nina Boyarchenko. "[Intermediary Leverage Cycles and Financial St
 Inefficient insurance
 {{< tdclose >}}{{< tdopen >}}
 
-Lorenzoni, G. "[Inefficient Credit Booms." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.702.1213&rep=rep1&type=pdf) *Review of Economic Studies* 75, no. 3 (2008): 809–33.
+Lorenzoni, G. "[Inefficient Credit Booms." (PDF)](https://www.nber.org/system/files/working_papers/w13639/w13639.pdf) *Review of Economic Studies* 75, no. 3 (2008): 809–33.
 
 Korinek, A., and O. Jeanne. "[Managing Credit Booms and Busts: A Pigouvian Taxation Approach." (PDF)](https://www.imf.org/external/np/res/seminars/2010/risk/pdf/durdu.pdf) Mimeo, University of Maryland (2010).
 
@@ -265,7 +265,7 @@ Angeletos, George-Marios, Luigi Iovino, et al. "[Cycles, Gaps, and the Social Va
 
 Bacchetta, Philippe, and Eric van Wincoop. "[Can Information Heterogeneity Explain the Exchange Rate Determination Puzzle?" (PDF)](https://www.nber.org/system/files/working_papers/w9498/w9498.pdf) *American Economic Review* 96, no. 3 (2006): 552–76.
 
-Barlevy, G., and P. Veronesi. "[Rational Panics and Stock Market Crashes](http://dx.doi.org/10.1016/S0022-0531(03)00039-5)" *Journal of Economic Theory* 110, no. 2 (2003): 234–63.
+Barlevy, G., and P. Veronesi. "[Rational Panics and Stock Market Crashes](http://dx.doi.org/10.1016/S0022-0531%2803%2900039-5)" *Journal of Economic Theory* 110, no. 2 (2003): 234–63.
 
 Golosov, M., G. Lorenzoni, et al. "[Decentralized Trading with Private Information](http://ideas.repec.org/p/nbr/nberwo/15513.html)." Mimeo (2011).
 
@@ -273,7 +273,7 @@ Grossman, Sanford. "[An Introduction to the Theory of Rational Expectations unde
 
 Hellwig, C., and L. Veldkamp. "[Knowing What Others Know: Coordination Motives in Information Acquisition](http://dx.doi.org/10.1111/j.1467-937X.2008.00515.x)." *Review of Economic Studies* 76, no. 1 (2009): 223–51.
 
-Hellwig, Martin. "[On the Aggregation of Information in Competitive Markets](http://dx.doi.org/10.1016/0022-0531(80)90056-3)." *Journal of Economic Theory* 22, no. 3 (1980): 477–98.
+Hellwig, Martin. "[On the Aggregation of Information in Competitive Markets](http://dx.doi.org/10.1016/0022-0531%2880%2990056-3)." *Journal of Economic Theory* 22, no. 3 (1980): 477–98.
 
 Kyle, Albert. "[Informed Speculation with Imperfect Competition](http://dx.doi.org/10.2307/2297551)." *Review of Economic Studies* 56, no. 3 (1989): 317–55.
 
