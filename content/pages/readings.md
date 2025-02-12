@@ -123,7 +123,7 @@ Farhi, E., C. Sleet, et al. "[Non-linear Capital Taxation without Commitment](ht
 Borrowing constraints, investment, and fluctuations
 {{< tdclose >}}{{< tdopen >}}
 
-Kiyotaki, N., and J. Moore. "[Credit Cycles](http://www.jstor.org/sici?sici=0022-3808%28199704%29105:2%3C211:CC%3E2.0.CO;2-8)." *Journal of Political Economy* 105, no. 2 (1997): 211–48.
+Kiyotaki, N., and J. Moore. "[Credit Cycles](https://www-users.york.ac.uk/~psm509/ULB2012/KiyotakiMooreJPE1997.pdf)." *Journal of Political Economy* 105, no. 2 (1997): 211–48.
 
 Brunnermeier, M., and Y. Sannikov. "[A Macroeconomic Model with a Financial Sector](http://scholar.princeton.edu/markus/publications/macroeconomic-model-financial-sector)." Mimeo, Princeton (2012).
 
@@ -249,7 +249,7 @@ Grossman, Sanford, and Joseph Stiglitz. "[On the Impossibility of Informationall
 
 Hassan, Tarek, and Thomas Mertens. "[Market Sentiment: A Tragedy of the Commons](http://dx.doi.org/10.1257/aer.101.3.402)." \_American Economic Review\_101, no.2 (2011): 402–5.
 
-Hirshleifer, Jack. "[The Private and Social Value of Information and the Reward to Inventive Activity](http://www.jstor.org/sici?sici=0002-8282%28197109%2961%3A4%3C561%3ATPASVO%3E2.0.CO%3B2-2&origin=repec)." *American Economic Review* 61, no. 4 (1971): 561–74.
+Hirshleifer, Jack. "[The Private and Social Value of Information and the Reward to Inventive Activity](https://www.jstor.org/stable/1811850?seq=14)." *American Economic Review* 61, no. 4 (1971): 561–74.
 
 *Additional Readings*
 
